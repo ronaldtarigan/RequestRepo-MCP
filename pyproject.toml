@@ -1,0 +1,31 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "requestrepo-mcp"
+version = "1.0.0"
+description = "MCP server for requestrepo"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Requestrepo MCP Contributors" }]
+dependencies = [
+  "mcp>=1.0.0",
+  "requestrepo>=2.0.1",
+  "pydantic>=2.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.0.0",
+]
+
+[project.scripts]
+requestrepo-mcp = "requestrepo_mcp.server:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/requestrepo_mcp"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

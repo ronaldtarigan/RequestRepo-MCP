@@ -1,6 +1,6 @@
-# requestrepo-mcp
+# RequestRepo MCP
 
-MCP server for [`requestrepo`](https://github.com/adrgs/requestrepo-lib).
+MCP server for [`requestrepo`](https://github.com/adrgs/requestrepo) by [`adragos`](https://github.com/adrgs).
 
 ## Scope
 

